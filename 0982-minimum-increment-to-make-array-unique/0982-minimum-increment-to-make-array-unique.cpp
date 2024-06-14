@@ -3,10 +3,11 @@ public:
     int minIncrementForUnique(vector<int>& nums) {
         // return 0;
         vector<int>a(1000000,0);
+        int temp=*max_element(nums.begin(),nums.end());
         long  ans=0;
         int t=0,mod=1e9+7;
         for(auto x:nums)a[x]++;
-        for(int i=0;i<1000000;i++){
+        for(int i=0;i<=temp;i++){
             if(a[i]>1){
                 t=max(t,i)+1;
                 while(a[i]>1){
