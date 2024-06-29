@@ -143,3 +143,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/anashmalik/gfg-solution/tree/master/1916-find-center-of-star-graph) |
 | [2379-maximum-total-importance-of-roads](https://github.com/anashmalik/gfg-solution/tree/master/2379-maximum-total-importance-of-roads) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/anashmalik/gfg-solution/tree/master/0071-simplify-path) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/anashmalik/gfg-solution/tree/master/0071-simplify-path) |
+<!---LeetCode Topics End-->
