@@ -191,4 +191,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/anashmalik/gfg-solution/tree/master/0224-basic-calculator) |
+## Linked List
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anashmalik/gfg-solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anashmalik/gfg-solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->
