@@ -194,9 +194,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/anashmalik/gfg-solution/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anashmalik/gfg-solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/anashmalik/gfg-solution/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anashmalik/gfg-solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->
