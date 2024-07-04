@@ -15,7 +15,7 @@ public:
         ListNode * t=head;
         ListNode* te=t->next;
         ListNode * a=NULL;
-        while(te){
+        while(te!=NULL){
             if(te->val==0 and sum !=0){
                 a=t;
                  t->val=sum;
