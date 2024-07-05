@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0061-rotate-list](https://github.com/anashmalik/gfg-solution/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anashmalik/gfg-solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/anashmalik/gfg-solution/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/anashmalik/gfg-solution/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Two Pointers
 |  |
