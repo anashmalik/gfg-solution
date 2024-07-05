@@ -29,11 +29,10 @@ public:
                 l=0;
             }
             if(b>-1)b++;
-            if(lm>=0)lm++;
             if(l>=0)l++;
             p=head->val;
             head=head->next;
-            cout<< b<<" "<<l<<endl;
+            // cout<< b<<" "<<l<<endl;
         }
         
         if( b==l or b==-1)return {-1,-1};
