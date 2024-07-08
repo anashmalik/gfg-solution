@@ -184,17 +184,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/anashmalik/gfg-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/anashmalik/gfg-solution/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/anashmalik/gfg-solution/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/anashmalik/gfg-solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Math
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anashmalik/gfg-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/anashmalik/gfg-solution/tree/master/0224-basic-calculator) |
 | [1642-water-bottles](https://github.com/anashmalik/gfg-solution/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/anashmalik/gfg-solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/anashmalik/gfg-solution/tree/master/2645-pass-the-pillow) |
 ## Recursion
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/anashmalik/gfg-solution/tree/master/0224-basic-calculator) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/anashmalik/gfg-solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Linked List
 |  |
 | ------- |
@@ -229,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/anashmalik/gfg-solution/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/anashmalik/gfg-solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/anashmalik/gfg-solution/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/anashmalik/gfg-solution/tree/master/2645-pass-the-pillow) |
 ## Database
@@ -249,4 +253,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1827-invalid-tweets](https://github.com/anashmalik/gfg-solution/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/anashmalik/gfg-solution/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/anashmalik/gfg-solution/tree/master/2087-confirmation-rate) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/anashmalik/gfg-solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
