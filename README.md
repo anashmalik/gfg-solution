@@ -150,12 +150,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0071-simplify-path](https://github.com/anashmalik/gfg-solution/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/anashmalik/gfg-solution/tree/master/0224-basic-calculator) |
+| [1720-crawler-log-folder](https://github.com/anashmalik/gfg-solution/tree/master/1720-crawler-log-folder) |
 ## Stack
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/anashmalik/gfg-solution/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anashmalik/gfg-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/anashmalik/gfg-solution/tree/master/0224-basic-calculator) |
+| [1720-crawler-log-folder](https://github.com/anashmalik/gfg-solution/tree/master/1720-crawler-log-folder) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/anashmalik/gfg-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/anashmalik/gfg-solution/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/anashmalik/gfg-solution/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1720-crawler-log-folder](https://github.com/anashmalik/gfg-solution/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/anashmalik/gfg-solution/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/anashmalik/gfg-solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Math
