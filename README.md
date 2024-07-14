@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0071-simplify-path](https://github.com/anashmalik/gfg-solution/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/anashmalik/gfg-solution/tree/master/0224-basic-calculator) |
+| [0726-number-of-atoms](https://github.com/anashmalik/gfg-solution/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anashmalik/gfg-solution/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/anashmalik/gfg-solution/tree/master/1720-crawler-log-folder) |
 ## Stack
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/anashmalik/gfg-solution/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anashmalik/gfg-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/anashmalik/gfg-solution/tree/master/0224-basic-calculator) |
+| [0726-number-of-atoms](https://github.com/anashmalik/gfg-solution/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anashmalik/gfg-solution/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/anashmalik/gfg-solution/tree/master/1720-crawler-log-folder) |
 | [2846-robot-collisions](https://github.com/anashmalik/gfg-solution/tree/master/2846-robot-collisions) |
@@ -223,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anashmalik/gfg-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/anashmalik/gfg-solution/tree/master/0726-number-of-atoms) |
 ## Binary Search
 |  |
 | ------- |
@@ -231,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anashmalik/gfg-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/anashmalik/gfg-solution/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/anashmalik/gfg-solution/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2846-robot-collisions](https://github.com/anashmalik/gfg-solution/tree/master/2846-robot-collisions) |
 ## Greedy
