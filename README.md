@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anashmalik/gfg-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anashmalik/gfg-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0605-can-place-flowers](https://github.com/anashmalik/gfg-solution/tree/master/0605-can-place-flowers) |
 | [0948-sort-an-array](https://github.com/anashmalik/gfg-solution/tree/master/0948-sort-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/anashmalik/gfg-solution/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/anashmalik/gfg-solution/tree/master/1293-three-consecutive-odds) |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/anashmalik/gfg-solution/tree/master/0605-can-place-flowers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/anashmalik/gfg-solution/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Simulation
 |  |
