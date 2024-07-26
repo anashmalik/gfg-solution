@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0726-number-of-atoms](https://github.com/anashmalik/gfg-solution/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anashmalik/gfg-solution/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/anashmalik/gfg-solution/tree/master/1720-crawler-log-folder) |
+| [1894-merge-strings-alternately](https://github.com/anashmalik/gfg-solution/tree/master/1894-merge-strings-alternately) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/anashmalik/gfg-solution/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/anashmalik/gfg-solution/tree/master/2502-sort-the-people) |
 ## Stack
@@ -234,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/anashmalik/gfg-solution/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anashmalik/gfg-solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anashmalik/gfg-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1894-merge-strings-alternately](https://github.com/anashmalik/gfg-solution/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
 |  |
 | ------- |
