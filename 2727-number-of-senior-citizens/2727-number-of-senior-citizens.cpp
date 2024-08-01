@@ -2,10 +2,10 @@ class Solution {
 public:
     int countSeniors(vector<string>& details) {
         int ans=0;
-        for(auto x:details){
-            int a=x[11]-'0';
-            a=a*10+x[12]-'0';
-            if(a>60)ans++;
+        for(int i=0;i<details.size();i++)
+        {
+            int age=( (details[i][11]-'0')*10 )+(details[i][12]-'0');
+            ans+=(age>60);
         }
         return ans;
     }
