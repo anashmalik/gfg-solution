@@ -207,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anashmalik/gfg-solution/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0221-maximal-square](https://github.com/anashmalik/gfg-solution/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/anashmalik/gfg-solution/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/anashmalik/gfg-solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anashmalik/gfg-solution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -345,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/anashmalik/gfg-solution/tree/master/0221-maximal-square) |
 | [2472-build-a-matrix-with-conditions](https://github.com/anashmalik/gfg-solution/tree/master/2472-build-a-matrix-with-conditions) |
 ## Divide and Conquer
 |  |
@@ -373,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/anashmalik/gfg-solution/tree/master/0221-maximal-square) |
 | [1196-filling-bookcase-shelves](https://github.com/anashmalik/gfg-solution/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/anashmalik/gfg-solution/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/anashmalik/gfg-solution/tree/master/1511-count-number-of-teams) |
