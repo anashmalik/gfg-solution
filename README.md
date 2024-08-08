@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0334-increasing-triplet-subsequence](https://github.com/anashmalik/gfg-solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anashmalik/gfg-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0605-can-place-flowers](https://github.com/anashmalik/gfg-solution/tree/master/0605-can-place-flowers) |
+| [0921-spiral-matrix-iii](https://github.com/anashmalik/gfg-solution/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/anashmalik/gfg-solution/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/anashmalik/gfg-solution/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/anashmalik/gfg-solution/tree/master/1207-delete-nodes-and-return-forest) |
@@ -311,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/anashmalik/gfg-solution/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/anashmalik/gfg-solution/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/anashmalik/gfg-solution/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/anashmalik/gfg-solution/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -362,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/anashmalik/gfg-solution/tree/master/0221-maximal-square) |
+| [0921-spiral-matrix-iii](https://github.com/anashmalik/gfg-solution/tree/master/0921-spiral-matrix-iii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/anashmalik/gfg-solution/tree/master/2472-build-a-matrix-with-conditions) |
 ## Divide and Conquer
 |  |
