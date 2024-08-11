@@ -183,12 +183,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-regions-cut-by-slashes](https://github.com/anashmalik/gfg-solution/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/anashmalik/gfg-solution/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/anashmalik/gfg-solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/anashmalik/gfg-solution/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/anashmalik/gfg-solution/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/anashmalik/gfg-solution/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/anashmalik/gfg-solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/anashmalik/gfg-solution/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/anashmalik/gfg-solution/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Graph
 |  |
@@ -231,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/anashmalik/gfg-solution/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/anashmalik/gfg-solution/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/anashmalik/gfg-solution/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/anashmalik/gfg-solution/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1720-crawler-log-folder](https://github.com/anashmalik/gfg-solution/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/anashmalik/gfg-solution/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/anashmalik/gfg-solution/tree/master/1803-average-waiting-time) |
@@ -375,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/anashmalik/gfg-solution/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/anashmalik/gfg-solution/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/anashmalik/gfg-solution/tree/master/0999-regions-cut-by-slashes) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/anashmalik/gfg-solution/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2472-build-a-matrix-with-conditions](https://github.com/anashmalik/gfg-solution/tree/master/2472-build-a-matrix-with-conditions) |
 ## Divide and Conquer
 |  |
@@ -429,4 +433,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/anashmalik/gfg-solution/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/anashmalik/gfg-solution/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
