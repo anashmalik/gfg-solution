@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0334-increasing-triplet-subsequence](https://github.com/anashmalik/gfg-solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anashmalik/gfg-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0605-can-place-flowers](https://github.com/anashmalik/gfg-solution/tree/master/0605-can-place-flowers) |
+| [0624-maximum-distance-in-arrays](https://github.com/anashmalik/gfg-solution/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anashmalik/gfg-solution/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/anashmalik/gfg-solution/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/anashmalik/gfg-solution/tree/master/0890-lemonade-change) |
@@ -324,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/anashmalik/gfg-solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/anashmalik/gfg-solution/tree/master/0605-can-place-flowers) |
+| [0624-maximum-distance-in-arrays](https://github.com/anashmalik/gfg-solution/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/anashmalik/gfg-solution/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/anashmalik/gfg-solution/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/anashmalik/gfg-solution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
