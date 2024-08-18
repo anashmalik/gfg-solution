@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0224-basic-calculator](https://github.com/anashmalik/gfg-solution/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/anashmalik/gfg-solution/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anashmalik/gfg-solution/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/anashmalik/gfg-solution/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/anashmalik/gfg-solution/tree/master/0443-string-compression) |
 | [0726-number-of-atoms](https://github.com/anashmalik/gfg-solution/tree/master/0726-number-of-atoms) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/anashmalik/gfg-solution/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -286,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/anashmalik/gfg-solution/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anashmalik/gfg-solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anashmalik/gfg-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/anashmalik/gfg-solution/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/anashmalik/gfg-solution/tree/master/0443-string-compression) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anashmalik/gfg-solution/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/anashmalik/gfg-solution/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -430,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/anashmalik/gfg-solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/anashmalik/gfg-solution/tree/master/0221-maximal-square) |
 | [0264-ugly-number-ii](https://github.com/anashmalik/gfg-solution/tree/master/0264-ugly-number-ii) |
+| [0392-is-subsequence](https://github.com/anashmalik/gfg-solution/tree/master/0392-is-subsequence) |
 | [1196-filling-bookcase-shelves](https://github.com/anashmalik/gfg-solution/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/anashmalik/gfg-solution/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/anashmalik/gfg-solution/tree/master/1511-count-number-of-teams) |
