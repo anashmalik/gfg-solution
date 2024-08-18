@@ -1,22 +1,24 @@
 class Solution {
 public:
     int nthUglyNumber(int n) {
-        unordered_set<int>s;
+        static unordered_set<int>s;
+        static vector<int>an;
         int ans=-1;
-        priority_queue <long long, vector<long long>, greater<long long>> gq;
+        static priority_queue <long long, vector<long long>, greater<long long>> gq;
         gq.push(1);
-       while(s.size()<n){
+       while(an.size()<n){
             long long t=gq.top();
             int u=s.size();
             gq.pop();
             s.insert(t);
             if(s.size()!=u){
+                an.push_back(t);
             gq.push(t*2);
             gq.push(t*3);
             gq.push(t*5);
             }
             ans=t;
        }
-   return ans;
+   return an[n-1];
     }
 };
