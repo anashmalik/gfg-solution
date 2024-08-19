@@ -260,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0224-basic-calculator](https://github.com/anashmalik/gfg-solution/tree/master/0224-basic-calculator) |
 | [0264-ugly-number-ii](https://github.com/anashmalik/gfg-solution/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/anashmalik/gfg-solution/tree/master/0273-integer-to-english-words) |
+| [0650-2-keys-keyboard](https://github.com/anashmalik/gfg-solution/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/anashmalik/gfg-solution/tree/master/0870-magic-squares-in-grid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/anashmalik/gfg-solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1642-water-bottles](https://github.com/anashmalik/gfg-solution/tree/master/1642-water-bottles) |
@@ -433,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0221-maximal-square](https://github.com/anashmalik/gfg-solution/tree/master/0221-maximal-square) |
 | [0264-ugly-number-ii](https://github.com/anashmalik/gfg-solution/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/anashmalik/gfg-solution/tree/master/0392-is-subsequence) |
+| [0650-2-keys-keyboard](https://github.com/anashmalik/gfg-solution/tree/master/0650-2-keys-keyboard) |
 | [1196-filling-bookcase-shelves](https://github.com/anashmalik/gfg-solution/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/anashmalik/gfg-solution/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/anashmalik/gfg-solution/tree/master/1511-count-number-of-teams) |
