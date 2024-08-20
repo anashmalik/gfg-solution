@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-regions-cut-by-slashes](https://github.com/anashmalik/gfg-solution/tree/master/0999-regions-cut-by-slashes) |
 | [1196-filling-bookcase-shelves](https://github.com/anashmalik/gfg-solution/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/anashmalik/gfg-solution/tree/master/1207-delete-nodes-and-return-forest) |
+| [1240-stone-game-ii](https://github.com/anashmalik/gfg-solution/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/anashmalik/gfg-solution/tree/master/1293-three-consecutive-odds) |
 | [1511-count-number-of-teams](https://github.com/anashmalik/gfg-solution/tree/master/1511-count-number-of-teams) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/anashmalik/gfg-solution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/anashmalik/gfg-solution/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/anashmalik/gfg-solution/tree/master/0870-magic-squares-in-grid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/anashmalik/gfg-solution/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1240-stone-game-ii](https://github.com/anashmalik/gfg-solution/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/anashmalik/gfg-solution/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/anashmalik/gfg-solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/anashmalik/gfg-solution/tree/master/2645-pass-the-pillow) |
@@ -436,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/anashmalik/gfg-solution/tree/master/0392-is-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/anashmalik/gfg-solution/tree/master/0650-2-keys-keyboard) |
 | [1196-filling-bookcase-shelves](https://github.com/anashmalik/gfg-solution/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/anashmalik/gfg-solution/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/anashmalik/gfg-solution/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/anashmalik/gfg-solution/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/anashmalik/gfg-solution/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -450,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anashmalik/gfg-solution/tree/master/0238-product-of-array-except-self) |
+| [1240-stone-game-ii](https://github.com/anashmalik/gfg-solution/tree/master/1240-stone-game-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -478,4 +482,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/anashmalik/gfg-solution/tree/master/0040-combination-sum-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/anashmalik/gfg-solution/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
