@@ -30,18 +30,13 @@ public:
         cout<<ans[0].size();
         for(i=0;i<ans[0].size();i++){
             // if(ans[0][i]==0 and ans[1][i]==0)return "" ;
-            cout<<ans[0][i]<<" "<<ans[1][i]<<endl;
+            // cout<<ans[0][i]<<" "<<ans[1][i]<<endl;
             sum+=(ans[0][i]*(s/ans[1][i]));
         }
-        int t=min(abs(sum),abs(s));
-        int d=2;
-        while(d<=sqrt(t)){
-            if(sum%d==0 and s%d==0){
-                sum/=d;
-                s/=d;
-            }
-            else d++;
-        }
+        int t=__gcd(abs(sum),abs(s));
+        sum/=t;
+        s/=t;
+
         if(s==0)return "1/0";
         if( sum==0)return "0/1";
         return to_string(sum)+"/"+to_string(s);
