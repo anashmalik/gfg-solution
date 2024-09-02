@@ -261,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/anashmalik/gfg-solution/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/anashmalik/gfg-solution/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/anashmalik/gfg-solution/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/anashmalik/gfg-solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/anashmalik/gfg-solution/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/anashmalik/gfg-solution/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/anashmalik/gfg-solution/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -336,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/anashmalik/gfg-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anashmalik/gfg-solution/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/anashmalik/gfg-solution/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/anashmalik/gfg-solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sorting
 |  |
 | ------- |
@@ -367,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-water-bottles](https://github.com/anashmalik/gfg-solution/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/anashmalik/gfg-solution/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/anashmalik/gfg-solution/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/anashmalik/gfg-solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/anashmalik/gfg-solution/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/anashmalik/gfg-solution/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/anashmalik/gfg-solution/tree/master/2846-robot-collisions) |
@@ -484,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anashmalik/gfg-solution/tree/master/0238-product-of-array-except-self) |
 | [1240-stone-game-ii](https://github.com/anashmalik/gfg-solution/tree/master/1240-stone-game-ii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/anashmalik/gfg-solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Binary Indexed Tree
 |  |
 | ------- |
