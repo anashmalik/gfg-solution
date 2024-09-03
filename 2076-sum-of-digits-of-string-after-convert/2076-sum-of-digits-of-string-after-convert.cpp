@@ -2,8 +2,7 @@ class Solution {
 public:
     int getLucky(string s, int k) {
         long long ans=0;
-        string a="";
-        for(int x:s){
+        for(const auto & x:s){
            int t=x-96;
            while(t){
             ans+=t%10;
