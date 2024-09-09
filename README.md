@@ -270,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/anashmalik/gfg-solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/anashmalik/gfg-solution/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/anashmalik/gfg-solution/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2411-spiral-matrix-iv](https://github.com/anashmalik/gfg-solution/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/anashmalik/gfg-solution/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/anashmalik/gfg-solution/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/anashmalik/gfg-solution/tree/master/2727-number-of-senior-citizens) |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0725-split-linked-list-in-parts](https://github.com/anashmalik/gfg-solution/tree/master/0725-split-linked-list-in-parts) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/anashmalik/gfg-solution/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/anashmalik/gfg-solution/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2411-spiral-matrix-iv](https://github.com/anashmalik/gfg-solution/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/anashmalik/gfg-solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -383,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/anashmalik/gfg-solution/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2155-find-missing-observations](https://github.com/anashmalik/gfg-solution/tree/master/2155-find-missing-observations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/anashmalik/gfg-solution/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2411-spiral-matrix-iv](https://github.com/anashmalik/gfg-solution/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/anashmalik/gfg-solution/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/anashmalik/gfg-solution/tree/master/2846-robot-collisions) |
 ## Database
@@ -440,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-regions-cut-by-slashes](https://github.com/anashmalik/gfg-solution/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/anashmalik/gfg-solution/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/anashmalik/gfg-solution/tree/master/2035-count-sub-islands) |
+| [2411-spiral-matrix-iv](https://github.com/anashmalik/gfg-solution/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/anashmalik/gfg-solution/tree/master/2472-build-a-matrix-with-conditions) |
 ## Divide and Conquer
 |  |
