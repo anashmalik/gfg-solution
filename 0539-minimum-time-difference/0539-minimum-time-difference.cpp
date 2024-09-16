@@ -8,11 +8,11 @@ public:
         sort(mp.begin(),mp.end());
         int ans=INT_MAX;
         for(int i=0;i<mp.size()-1;i++){
-            cout<<mp[i]<<endl;
+            // cout<<mp[i]<<endl;
             ans=min(ans,(mp[i+1]-mp[i]));
-            cout<<ans<<endl;
+            // cout<<ans<<endl;
         }
-        cout<<mp[mp.size()-1]<<" "<<24*60;
+        // cout<<mp[mp.size()-1]<<" "<<24*60;
         ans=min(ans,abs(mp[0]-mp[mp.size()-1]+(24*60)));
         return ans;
     }
