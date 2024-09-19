@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/anashmalik/gfg-solution/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/anashmalik/gfg-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/anashmalik/gfg-solution/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/anashmalik/gfg-solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/anashmalik/gfg-solution/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anashmalik/gfg-solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/anashmalik/gfg-solution/tree/master/0392-is-subsequence) |
@@ -287,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anashmalik/gfg-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/anashmalik/gfg-solution/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/anashmalik/gfg-solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/anashmalik/gfg-solution/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/anashmalik/gfg-solution/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/anashmalik/gfg-solution/tree/master/0539-minimum-time-difference) |
@@ -305,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/anashmalik/gfg-solution/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/anashmalik/gfg-solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/anashmalik/gfg-solution/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/anashmalik/gfg-solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Linked List
@@ -493,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/anashmalik/gfg-solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/anashmalik/gfg-solution/tree/master/0221-maximal-square) |
+| [0241-different-ways-to-add-parentheses](https://github.com/anashmalik/gfg-solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/anashmalik/gfg-solution/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/anashmalik/gfg-solution/tree/master/0392-is-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/anashmalik/gfg-solution/tree/master/0650-2-keys-keyboard) |
@@ -559,4 +563,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/anashmalik/gfg-solution/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/anashmalik/gfg-solution/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
