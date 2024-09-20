@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0071-simplify-path](https://github.com/anashmalik/gfg-solution/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/anashmalik/gfg-solution/tree/master/0151-reverse-words-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/anashmalik/gfg-solution/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/anashmalik/gfg-solution/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anashmalik/gfg-solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/anashmalik/gfg-solution/tree/master/0273-integer-to-english-words) |
@@ -567,4 +568,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/anashmalik/gfg-solution/tree/master/0241-different-ways-to-add-parentheses) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/anashmalik/gfg-solution/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/anashmalik/gfg-solution/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/anashmalik/gfg-solution/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
