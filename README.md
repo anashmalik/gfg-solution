@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/anashmalik/gfg-solution/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/anashmalik/gfg-solution/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/anashmalik/gfg-solution/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/anashmalik/gfg-solution/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/anashmalik/gfg-solution/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/anashmalik/gfg-solution/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/anashmalik/gfg-solution/tree/master/0726-number-of-atoms) |
@@ -335,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/anashmalik/gfg-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/anashmalik/gfg-solution/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/anashmalik/gfg-solution/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/anashmalik/gfg-solution/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/anashmalik/gfg-solution/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/anashmalik/gfg-solution/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1894-merge-strings-alternately](https://github.com/anashmalik/gfg-solution/tree/master/1894-merge-strings-alternately) |
@@ -343,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0264-ugly-number-ii](https://github.com/anashmalik/gfg-solution/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anashmalik/gfg-solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/anashmalik/gfg-solution/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/anashmalik/gfg-solution/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/anashmalik/gfg-solution/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/anashmalik/gfg-solution/tree/master/0906-walking-robot-simulation) |
@@ -532,6 +535,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/anashmalik/gfg-solution/tree/master/0567-permutation-in-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/anashmalik/gfg-solution/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Strongly Connected Component
 |  |
